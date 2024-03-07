@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 宇宙小熊@TaikoBear 
+- 👋 Hi, I’m 宇宙大熊@TaikoBear 
 - 👀 I’m interested in Morphogenesis
 - 🌱 I’m currently learning High-Performance Computing
 - 💞️ I’m looking to collaborate on Numerical Simulation and Computational Geometry
