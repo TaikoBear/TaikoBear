@@ -1,8 +1,7 @@
 - 👋 Hi, I’m 宇宙大熊@TaikoBear 
-- 👀 I’m interested in Morphogenesis
-- 🌱 I’m currently learning High-Performance Computing
+- 👀 My research interests include topology optimisation, computational mechanics, high-performance computing and additive manufacturing.
 - 💞️ I’m looking to collaborate on Numerical Simulation and Computational Geometry
-- 📫 Please contact me via s3826621@student.rmit.edu.au
+- 📫 Please contact me via yulin.xiong@rmit.edu.au
 
 <!---
 TaikoBear/TaikoBear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
